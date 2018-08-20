@@ -1,5 +1,5 @@
-Por que o Linux recebeu esse nome?
-
+1) Por que o Linux recebeu esse nome?
+  
 O que são daemons?
 
 O que é o shell?
