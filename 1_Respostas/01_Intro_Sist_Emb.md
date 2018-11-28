@@ -5,7 +5,7 @@
   Sistemas controlados por microcontroladores e microprocessadores.
   
 3) Apresente aplicações de sistemas embarcados: (a) Para a indústria automotiva; (b) Para eletrodomésticos; (c) Para automação industrial.
-  a) Controle de combustão de motor
+  a) Controle de combustão de motor, controlador de injeção eletrônica, freios ABS
   b) Decodificador de TV
   c) Reator nuclear
   
@@ -14,3 +14,4 @@
 
 5) Por que usamos o Raspberry Pi na disciplina, ao invés de outro system-on-chip?
   Desconheço.
+    Baixo custo, alto desempenho
