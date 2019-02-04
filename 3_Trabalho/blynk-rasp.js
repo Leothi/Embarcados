@@ -1,11 +1,4 @@
-// Para executar: node blynk-rasp.js na pasta
-// Funcionando rele e DHT11
-
-// LARANJA: 5V e 3.3V
-// CINZA GND
-// AMARELO Rele
-// AZUL DHT
-// VERDE Soil
+// Leonardo de Holanda Bonifácio - leohb2@gmail.com
 
 // Bibliotecas
 var Blynk = require('blynk-library'); // blynk
@@ -23,7 +16,7 @@ var sensorPin  = 17;  // GPIO para DHT
 var modo;
 
 // Auth code e setup Blynk
-var AUTH = '2e761a7289ae4ea989ec73940d680850';
+var AUTH = '2e761a728xxxx989ec73940d680850';
 
 ///////////////////////////////////////////////////////////////////////////////////////////
 
